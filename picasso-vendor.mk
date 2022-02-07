@@ -708,6 +708,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/picasso/proprietary/vendor/lib64/camera/com.qti.sensormodule.picasso_sunny_ultra_ov8856.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.picasso_sunny_ultra_ov8856.bin \
     vendor/xiaomi/picasso/proprietary/vendor/lib64/camera/com.qti.sensormodule.picasso_sunny_v2_wide_imx686.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.picasso_sunny_v2_wide_imx686.bin \
     vendor/xiaomi/picasso/proprietary/vendor/lib64/camera/com.qti.sensormodule.picasso_sunny_wide_imx686.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.picasso_sunny_wide_imx686.bin \
+    vendor/xiaomi/picasso/proprietary/vendor/lib64/camera/com.qti.sensor.picasso_wide_ov48b2q.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.picasso_wide_ov48b2q.so \
+    vendor/xiaomi/picasso/proprietary/vendor/lib64/camera/com.qti.sensormodule.picasso_sunny_wide_ov48b2q.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.picasso_sunny_wide_ov48b2q.bin \
+    vendor/xiaomi/picasso/proprietary/vendor/lib64/camera/com.qti.tuned.picasso_48m_sunny_front_depth_gc02m1_mono.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.picasso_48m_sunny_front_depth_gc02m1_mono.bin \
+    vendor/xiaomi/picasso/proprietary/vendor/lib64/camera/com.qti.tuned.picasso_48m_sunny_rear_depth_gc02m1_mono.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.picasso_48m_sunny_rear_depth_gc02m1_mono.bin \
+    vendor/xiaomi/picasso/proprietary/vendor/lib64/camera/com.qti.tuned.picasso_sunny_wide_ov48b2q.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.picasso_sunny_wide_ov48b2q.bin \
     vendor/xiaomi/picasso/proprietary/vendor/lib64/camera/com.qti.tuned.default.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.default.bin \
     vendor/xiaomi/picasso/proprietary/vendor/lib64/camera/com.qti.tuned.picasso_ofilm_front_depth_gc02m1.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.picasso_ofilm_front_depth_gc02m1.bin \
     vendor/xiaomi/picasso/proprietary/vendor/lib64/camera/com.qti.tuned.picasso_ofilm_front_s5k3t2.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.picasso_ofilm_front_s5k3t2.bin \
